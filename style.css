@@ -4,13 +4,18 @@ body {
 }
 
 .btn {
-  background-color: #ff002f;
-  border-color: #ff002f;
+  background-color: #d7383d;
+  border-color: #d7383d;
   color: white;
   width: 300px;
   height: 80px;
   font-size: 28px;
   border-radius: 0px;
+}
+
+.second-section {
+  background-color: #d7383d;
+  color: white;
 }
 
 .h1,
