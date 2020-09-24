@@ -23,3 +23,28 @@ body {
 .h3 {
   font-family: "Alfa Slab One", cursive;
 }
+
+.footer-section {
+  background-color: #242a2e;
+  color: white;
+}
+
+.footer-list .list-group-item {
+  background-color: #242a2e;
+  border-top: 1px solid #242a2e;
+  border-left-color: #242a2e;
+  border-right-color: #242a2e;
+  color: white;
+}
+
+.footer-link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: rgb(136, 233, 255);
+  background-color: transparent;
+  text-decoration: none;
+}
